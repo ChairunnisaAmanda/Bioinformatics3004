@@ -1,1 +1,2 @@
 # Bioinformatics3004
+Welcome to my comprehensive repository showcasing the culmination of my diligent efforts during the Bioinformatics course. Here, you will find an array of meticulously completed assignments, exercises, and tests that have allowed me to hone my programming skills in the captivating domain of bioinformatics. One of the key highlights of this collection is the adept utilization of Python to seamlessly execute the conversion of file formats through proficient text processing techniques and the judicious implementation of regular expressions. 
